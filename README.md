@@ -2,4 +2,4 @@
 
 <p> Bu Proje React İle Hazırlanmıştır.</p>
 
-![](./public/ParaHarcam.gif)
+<img src="./public/ParaHarcam.gif">
